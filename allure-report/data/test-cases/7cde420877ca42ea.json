@@ -1,0 +1,106 @@
+{
+  "uid" : "7cde420877ca42ea",
+  "name" : "user should see the Aim login screen",
+  "fullName" : "features\\syslog.feature:user should see the Aim login screen",
+  "time" : {
+    "start" : 1619679787620,
+    "stop" : 1619679790272,
+    "duration" : 2652
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given user is in aim login page or not",
+      "time" : {
+        "start" : 1619679787621,
+        "stop" : 1619679787793,
+        "duration" : 172
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "79b0ef573c53e534",
+        "name" : "screenshot",
+        "source" : "79b0ef573c53e534.png",
+        "type" : "image/png",
+        "size" : 63708
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "Given user enter the username \"admin\"",
+      "time" : {
+        "start" : 1619679787794,
+        "stop" : 1619679787903,
+        "duration" : 109
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "Then user click on login button",
+      "time" : {
+        "start" : 1619679787904,
+        "stop" : 1619679790272,
+        "duration" : 2368
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 3
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-UB3IPMH"
+  }, {
+    "name" : "thread",
+    "value" : "9168-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest-bdd"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "feature",
+    "value" : "we are working on Aim box and enable / disable syslog"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7cde420877ca42ea.json",
+  "parameterValues" : [ ]
+}

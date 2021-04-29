@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Apr 29 12:33:10 IST 2021","Thu Apr 29 12:33:15 IST 2021","5180","","","","","","user verify login done sucessfully or not",""
+"passed","Thu Apr 29 12:33:29 IST 2021","Thu Apr 29 12:33:41 IST 2021","11572","","","","","","user disable the syslog",""
+"passed","Thu Apr 29 12:33:15 IST 2021","Thu Apr 29 12:33:29 IST 2021","14001","","","","","","user verify and click the dashboard and perform opertaion",""
+"passed","Thu Apr 29 12:33:07 IST 2021","Thu Apr 29 12:33:10 IST 2021","2652","","","","","","user should see the Aim login screen",""

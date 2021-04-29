@@ -1,0 +1,41 @@
+Feature: we are working on Aim box and enable and disable snmp feature
+
+Scenario: user should see the Aim login screen
+
+  Given user is in aim login page or not
+  Given user enter the username "admin"
+#  Given user enter the password "123"
+  Then user click on login button
+
+Scenario: user verify login done sucessfully or not
+
+  Then user verify the login done or not
+
+Scenario: user verify and click the dashboard and perform opertaion
+
+  Then user verify dashboard heading
+  Then user click on dashboard
+  Then user verify setting option
+  Then user click on setting option and verify setting page is open or not
+  Then user verify network option
+  Then user click on network option
+  Then user enable the SNMP
+  Then user enter NMS address "192.168.17.212"
+  Then user enter the username "xyz"
+  Then user choose allowed connection method no authentication
+  Then user verify the save button
+  Then uer save the details
+  Then user verify save done or not
+  Then user click on dashboard
+
+Scenario: user disable the SNMP
+
+  Then user verify setting option
+  Then user click on setting option and verify setting page is open or not
+  Then user verify network option
+  Then user click on network option
+  Then user disable the SNMP
+  Then user verify the save button
+  Then uer save the details
+  Then user verify save done or not
+  Then user click on dashboard

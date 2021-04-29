@@ -1,0 +1,41 @@
+[ {
+  "uid" : "868a2d85ca409888",
+  "name" : "user verify login done sucessfully or not",
+  "time" : {
+    "start" : 1619679790274,
+    "stop" : 1619679795454,
+    "duration" : 5180
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c0b9aad43541cc80",
+  "name" : "user disable the syslog",
+  "time" : {
+    "start" : 1619679809465,
+    "stop" : 1619679821037,
+    "duration" : 11572
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7bbe9d0fa0f651dd",
+  "name" : "user verify and click the dashboard and perform opertaion",
+  "time" : {
+    "start" : 1619679795460,
+    "stop" : 1619679809461,
+    "duration" : 14001
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7cde420877ca42ea",
+  "name" : "user should see the Aim login screen",
+  "time" : {
+    "start" : 1619679787620,
+    "stop" : 1619679790272,
+    "duration" : 2652
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "buildOrder" : 3,
+  "reportUrl" : "http://192.168.1.29:8080/job/testcase11_Syslog/3/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "run" : 4,
+    "retry" : 0
+  }
+} ]

@@ -1,0 +1,65 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "children" : [ {
+    "name" : "DESKTOP-UB3IPMH",
+    "children" : [ {
+      "name" : "9168-MainThread",
+      "children" : [ {
+        "name" : "user disable the syslog",
+        "uid" : "c0b9aad43541cc80",
+        "parentUid" : "74d50847bf8ed7fedab448a41b7ea24a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1619679809465,
+          "stop" : 1619679821037,
+          "duration" : 11572
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "user should see the Aim login screen",
+        "uid" : "7cde420877ca42ea",
+        "parentUid" : "74d50847bf8ed7fedab448a41b7ea24a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1619679787620,
+          "stop" : 1619679790272,
+          "duration" : 2652
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "user verify login done sucessfully or not",
+        "uid" : "868a2d85ca409888",
+        "parentUid" : "74d50847bf8ed7fedab448a41b7ea24a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1619679790274,
+          "stop" : 1619679795454,
+          "duration" : 5180
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "user verify and click the dashboard and perform opertaion",
+        "uid" : "7bbe9d0fa0f651dd",
+        "parentUid" : "74d50847bf8ed7fedab448a41b7ea24a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1619679795460,
+          "stop" : 1619679809461,
+          "duration" : 14001
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "74d50847bf8ed7fedab448a41b7ea24a"
+    } ],
+    "uid" : "d1af5cf3ec57b2a5f695b94894965358"
+  } ],
+  "name" : "timeline"
+}

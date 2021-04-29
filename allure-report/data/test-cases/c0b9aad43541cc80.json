@@ -1,0 +1,220 @@
+{
+  "uid" : "c0b9aad43541cc80",
+  "name" : "user disable the syslog",
+  "fullName" : "features\\syslog.feature:user disable the syslog",
+  "time" : {
+    "start" : 1619679809465,
+    "stop" : 1619679821037,
+    "duration" : 11572
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Then user verify setting option",
+      "time" : {
+        "start" : 1619679809466,
+        "stop" : 1619679809654,
+        "duration" : 188
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "b498f0efe27f6ff2",
+        "name" : "screenshot",
+        "source" : "b498f0efe27f6ff2.png",
+        "type" : "image/png",
+        "size" : 149787
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "Then user click on setting option and verify setting page is open or not",
+      "time" : {
+        "start" : 1619679809654,
+        "stop" : 1619679812088,
+        "duration" : 2434
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "debf80b61d57b164",
+        "name" : "Invalid Credential",
+        "source" : "debf80b61d57b164.png",
+        "type" : "image/png",
+        "size" : 165526
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "Then user verify network option",
+      "time" : {
+        "start" : 1619679812089,
+        "stop" : 1619679812271,
+        "duration" : 182
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "e447f5d9fe348710",
+        "name" : "screenshot",
+        "source" : "e447f5d9fe348710.png",
+        "type" : "image/png",
+        "size" : 165526
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "Then user click on network option",
+      "time" : {
+        "start" : 1619679812271,
+        "stop" : 1619679814315,
+        "duration" : 2044
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "Then user disable the syslog",
+      "time" : {
+        "start" : 1619679814316,
+        "stop" : 1619679816372,
+        "duration" : 2056
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "Then user verify the save button",
+      "time" : {
+        "start" : 1619679816372,
+        "stop" : 1619679816560,
+        "duration" : 188
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "b8adefaa7d196945",
+        "name" : "screenshot",
+        "source" : "b8adefaa7d196945.png",
+        "type" : "image/png",
+        "size" : 146105
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "Then user save the details",
+      "time" : {
+        "start" : 1619679816560,
+        "stop" : 1619679818626,
+        "duration" : 2066
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "Then user verify save done or not",
+      "time" : {
+        "start" : 1619679818626,
+        "stop" : 1619679818827,
+        "duration" : 201
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "c494a05bb6848d9e",
+        "name" : "screenshot",
+        "source" : "c494a05bb6848d9e.png",
+        "type" : "image/png",
+        "size" : 166096
+      } ],
+      "parameters" : [ ],
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true,
+      "stepsCount" : 0
+    }, {
+      "name" : "Then user click on dashboard",
+      "time" : {
+        "start" : 1619679818827,
+        "stop" : 1619679821037,
+        "duration" : 2210
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 5,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 9
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "DESKTOP-UB3IPMH"
+  }, {
+    "name" : "thread",
+    "value" : "9168-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest-bdd"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "feature",
+    "value" : "we are working on Aim box and enable / disable syslog"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c0b9aad43541cc80.json",
+  "parameterValues" : [ ]
+}
